@@ -13,3 +13,5 @@ cd app && yarn
 cd ..
 yarn dev
 ```
+
+See [this commit](https://github.com/amilajack/erb-axios-example/commit/da1d48df8af3bc7ae73ae6d57d0687a917794f52) for all the changes made to the boilerplate to add axios.
