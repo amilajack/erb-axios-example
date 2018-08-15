@@ -1,5 +1,7 @@
 # erb-axios-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/erb-axios-example.svg)](https://greenkeeper.io/)
+
 ### A minimal example of using [erb](https://github.com/chentsulin/electron-react-boilerplate) with axios
 
 ## Setup
